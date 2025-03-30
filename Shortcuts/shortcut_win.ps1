@@ -4,7 +4,8 @@
 $Shortcuts = @(
     @{ Name = "Notepad"; TargetPath = "C:\Windows\System32\notepad.exe" },
     @{ Name = "Calculator"; TargetPath = "C:\Windows\System32\calc.exe" },
-    @{ Name = "Aftonbladet"; TargetPath = "https://www.Aftonbladet.se" },
+    @{ Name = "SVT"; TargetPath = "https://www.svt.se" },
+    @{ Name = "Sveriges Radio"; TargetPath = "https://www.sr.se" },
     @{ Name = "Macrumors"; TargetPath = "https://www.macrumors.com" }
 )
 
