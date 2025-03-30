@@ -1,6 +1,6 @@
 <# 
 .SYNOPSIS
-    Configures Microsoft Defender Antivirus with additional advanced settings.
+    Configures Microsoft Defender Antivirus with additional settings.
 .DESCRIPTION
     This script enables:
       - Real-time Protection
