@@ -1,0 +1,1 @@
+When this skript is executed it will run a skript on github and then delete it. One could run it as a schedueled task.
